@@ -59,7 +59,7 @@
 | RandomForest (ProtBERT embeddings) | ~0.64 |
 | RandomForest (k-mer) | ~0.64 |
 | RandomForest (features) | ~0.54 |
-| XGBoost (balanced, features) | ... |
+| XGBoost (balanced, features) | ~0.47 |
 | Logistic Regression (balanced, features) | ~0.38 |
 
 *Примечание: Значения для XGBoost необходимо уточнить по результатам выполнения финальной ячейки.*
